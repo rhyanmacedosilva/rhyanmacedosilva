@@ -9,7 +9,7 @@
 </div>   
 -->
 
-## Um pouquinho sobre mim 👍
+## Um pouco sobre mim 👍
     
 - 💻 Atualmente atuo como desenvolvedor full stack na `TOTVS RS`
 
