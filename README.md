@@ -1,4 +1,4 @@
-# Olá! Meu nome é Rhyan, seja bem-vindo(a) ao meu GitHub! 👋
+# Olá! Meu nome é Rhyan, seja bem-vindo(a) ao meu GitHub!
 
 <!--
 <div>
