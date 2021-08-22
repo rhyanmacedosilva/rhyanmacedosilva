@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rhyan, seja bem-vindo(a) ao meu GitHub!
+# Olá! Eu sou o Rhyan, seja bem-vindo(a) ao meu GitHub! 👍
 
 <!--
 <div>
@@ -9,17 +9,17 @@
 </div>   
 -->
 
-## Um pouco sobre mim 👍
-    
+## Um Pouco Sobre Mim
+
 - 💻 Atualmente atuo como desenvolvedor full stack na `TOTVS RS`
 
 - 📒 No momento estou estudando algumas das principais tecnologias de mercado, como `Flutter`, `Angular`, `TypeScript` e `NodeJS`
 
 - 📫 Você pode entrar em contato comigo por meio do `rhyanmacedosilva@gmail.com`
     
-## Nos meus projetos utilizo 🧰
+## Você vai Encontrar nos Meus Projetos
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="rhyan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rhyan-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="rhyan-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
