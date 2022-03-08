@@ -13,7 +13,7 @@
 
 - 💻 Atualmente atuo como desenvolvedor full stack na `TOTVS RS`
 
-- 📒 No momento estou estudando algumas das principais tecnologias de mercado, como `Flutter`, `Angular`, `TypeScript` e `NodeJS`
+- 📒 No momento estou estudando algumas das principais tecnologias de mercado, como `Flutter`, `Angular`, `React`, `TypeScript` e `NodeJS`
 
 - 📫 Você pode entrar em contato comigo por meio do `rhyanmacedosilva@gmail.com`
     
